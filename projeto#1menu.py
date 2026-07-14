@@ -1,4 +1,4 @@
-participantes= []
+participantes=[]
 while (True):
 	print("========================")
 	print("     MENU DO MT")
